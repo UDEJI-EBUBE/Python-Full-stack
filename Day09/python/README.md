@@ -1,19 +1,30 @@
-# Python
-Learnt about parameters and arguments today.
-Although not that much important i learnt that when passing arguments in a function you can pass it as a value to the variable that way no matter the position it is placed it will still be assigned properly
+# Nested lists and dictionaries
+In this lesson we talked about how lists can be nested inside lists and also dictionaries, and dictionaries being nested in other dictionaries <br>
+An examole of list being nested in aother list is
+```
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+
+print(matrix[0])      # [1, 2, 3]
+print(matrix[1][2])   # 6
 
 ```
-def introduce(name, age, country):
-    print(f"My name is {name}, I am {age} years old, and I live in {country}.")
 
-# Normal positional arguments (must follow the function order)
-introduce("Ebube", 17, "Nigeria")
-
-# Keyword arguments (order doesn't matter)
-introduce(age=17, country="Nigeria", name="Ebube")
-
-A simple way to go down multiple lines is by using
-Print("\n" * 100)
+An example of a list being nested in a dictionary is
 ```
+student = {
+    "name": "Alice",
+    "grades": [85, 90, 78],
+    "hobbies": ["reading", "chess", "cycling"]
+}
 
 
+print(student["grades"])        # Output: [85, 90, 78]
+print(student["grades"][1])     # Output: 90
+
+print(student["hobbies"][0])    # Output: reading
+
+```
