@@ -2,6 +2,7 @@ Python
 Learnt about parameters and arguments today.
 Although not that much important i learnt that when passing arguments in a function you can pass it as a value to the variable that way no matter the position it is placed it will still be assigned properly
 
+```
 def introduce(name, age, country):
     print(f"My name is {name}, I am {age} years old, and I live in {country}.")
 
@@ -13,6 +14,6 @@ introduce(age=17, country="Nigeria", name="Ebube")
 
 A simple way to go down multiple lines is by using
 Print("\n" * 100)
-
+```
 
 
