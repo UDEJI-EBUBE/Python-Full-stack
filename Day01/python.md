@@ -1,5 +1,5 @@
-Day 1
-Python
+# Day 1
+## Python
 Mostly covered string , variables, the print and input functions
 
 New knowledge gathered today is the \n which is used to go to a new line
@@ -13,3 +13,5 @@ The output will be
 • Ben 10
 
 • Avatar
+## Full-stack
+no notes on today
