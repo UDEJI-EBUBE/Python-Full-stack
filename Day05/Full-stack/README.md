@@ -1,10 +1,10 @@
-Full-stack
+# Full-stack
 
 Talked about css today, nothing Am not familiar with only learnt that you can style an element bearing a specific attributes
 
 E.g
 
-<p draggable=true>hello<p>
+`<p draggable=true>hello<p>`
 
 Css
 
