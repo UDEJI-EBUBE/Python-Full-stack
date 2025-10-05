@@ -5,10 +5,10 @@ We covered three main things today
 3. Media queries
 - For position:
 There are 4 types of position
-a. Static position: this is the default positioning taht you see in a page it cannot be moved
-b. Realtive position: this is when the element is positioned relative to the psge so any positioning it undergoes is decided based on the nrowser position
-c. Absolute position: this is same as the realtive positioning but here it is positioned to the nearest parent conatiner that has position realtive if there is no position Absolute it positions itself to the page.
-d. Fixed position: this is when the elemnt is positioned relative to the browser not the page.
+1. Static position: this is the default positioning taht you see in a page it cannot be moved
+2. Realtive position: this is when the element is positioned relative to the psge so any positioning it undergoes is decided based on the nrowser position
+3. Absolute position: this is same as the realtive positioning but here it is positioned to the nearest parent conatiner that has position realtive if there is no position Absolute it positions itself to the page.
+4. Fixed position: this is when the elemnt is positioned relative to the browser not the page.
 
 - For display, there are many types of display that we have in CSS. We have the grid display, we have the flex display. These two displays are used to help in responsiveness of the website.
 
