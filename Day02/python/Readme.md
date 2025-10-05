@@ -1,5 +1,5 @@
-Day 2
-Python
+# Day 2
+## Data types
 Dealt with mostly data types today. Although I have treated this i will say them again just to have a recording for today
 
 • Integer: int()
