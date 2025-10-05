@@ -1,4 +1,4 @@
-Python
+# Python
 Learnt about parameters and arguments today.
 Although not that much important i learnt that when passing arguments in a function you can pass it as a value to the variable that way no matter the position it is placed it will still be assigned properly
 
