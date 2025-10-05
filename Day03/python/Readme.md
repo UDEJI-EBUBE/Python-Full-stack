@@ -1,5 +1,5 @@
-Day 3
-Python
+# Day 3
+## Python
 
 Completed my 3rd day of Python programming
 
