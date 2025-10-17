@@ -1,4 +1,4 @@
-# OOOP
+# OOP
 Today we dealt with object oriented programming which is all about these things
 1. class: this is like a blueprint or template used to create things. It defines how sth acts or behaves, but it's not the actual thing yet<br> e.g
 ```
