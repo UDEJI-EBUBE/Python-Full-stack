@@ -7,8 +7,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
-FORMS_URL = "https://forms.gle/SBP6p3M11TiLXbwB6"
-WEB_URL = "https://appbrewery.github.io/Zillow-Clone/"
+FORMS_URL = "____"
+WEB_URL = "____"
 
 response = requests.get(WEB_URL)
 zillow = response.text
